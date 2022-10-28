@@ -1,0 +1,21 @@
+{
+  "name": "sea-turtle",
+  "displayName": "Sea Turtle",
+  "description": "A dark theme for Visual Studio Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sea Turtle Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sea Turtle Theme-color-theme.json"
+      }
+    ]
+  }
+}
