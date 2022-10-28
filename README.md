@@ -4,9 +4,12 @@
 
 ![Screenshot](https://raw.githubusercontent.com/zak-c/sea-turtle-theme/main/screenshot.png)
 
-## Install
+# Installation
 
-All instructions can be found at...
+1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Search for `Sea Turtle`, choose "Sea Turtle" by **Zak Cox**
+1. Click **Install**
+1. Navigate to File > Preferences > Color Theme > **Sea Turtle**
 
 ## License
 

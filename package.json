@@ -1,20 +1,42 @@
 {
   "name": "sea-turtle",
   "displayName": "Sea Turtle",
-  "description": "A dark theme for Visual Studio Code.",
+  "description": "Official Sea Turtle theme. A dark theme for Visual Studio Code.",
+  "license": "MIT",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zak-C/sea-turtle-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zak-C/sea-turtle-theme/issues"
+  },
+  "publisher": "ZakCox",
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "sea turtle",
+    "sea",
+    "turtle",
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3c4557",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Sea Turtle Theme",
+        "label": "Sea Turtle",
         "uiTheme": "vs-dark",
-        "path": "./themes/Sea Turtle Theme-color-theme.json"
+        "path": "./themes/Sea Turtle-color-theme.json"
       }
     ]
   }
